@@ -47,7 +47,7 @@ Magnet is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-If you have any questions or need further assistance, feel free to contact us at support@magnetapp.com.
+If you have any questions or need further assistance, feel free to contact us at letsmagnet4@gmail.com
 
 ---
 
