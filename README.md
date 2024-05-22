@@ -2,6 +2,10 @@
 
 Magnet is a powerful note-sharing and study material application designed specifically for students of Netaji Subhas University of Technology (NSUT). Built with Dart and Flutter, this application aims to streamline and enhance the academic experience by providing a centralized platform for organizing, creating, and accessing study materials efficiently.
 
+
+
+![Magnet (2)](https://github.com/Vishal8700/Magnet-application/assets/97828106/22eb82e1-8f8a-45cc-b564-2699838fb339)
+
 ## Features
 
 ### Intuitive Note-Taking
