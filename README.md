@@ -34,7 +34,7 @@ Magnet is a powerful note-sharing and study material application designed specif
 - **Enhanced Experience**: Improve your studying experience with the dark mode option.
 
 ## Installation
-<button href="https://magnet2.netlify.app/download" >download </button >
+<button href="https://magnet2.netlify.app/download" >
 
 ## License
 
