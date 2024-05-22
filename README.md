@@ -4,12 +4,29 @@ Magnet is a powerful note-sharing and study material application designed specif
 
 ## Features
 
-- **Note Sharing**: Share your class notes, assignments, and study materials with your peers effortlessly.
-- **Organized Repository**: Keep all your study materials organized in one place for easy access.
-- **Collaborative Learning**: Collaborate with fellow students by sharing and editing notes together.
-- **User-Friendly Interface**: Intuitive and easy-to-navigate interface designed to enhance the user experience.
-- **Search Functionality**: Quickly find notes and study materials with the powerful search feature.
-- **Offline Access**: Access your downloaded notes and materials even without an internet connection.
+Intuitive Note-Taking:
+Organized notes.
+Rich text formatting for effective content structuring.
+Easy-to-use interface for an optimal user experience.
+Course Organization:
+Group notes by courses for quick reference.
+Tagging system to further categorize and filter content.
+Collaboration:
+Share notes with classmates for collaborative learning.
+Real-time editing and commenting for group discussions.
+Study Material Repository:
+We Upload and store various types of study materials (PDFs, presentations, etc.).
+Quick search functionality to find relevant materials easily.
+University Portal Interface [IMS]
+Directly login to IMS to see your attendence securely. .
+Receive notifications to stay on top of your schedule.
+More Secure then NSUT X AND NSUT Companion app that save your data.
+Gemini Integration
+Ask your Doubts with Ai.
+Attendence prediction and calculation model
+Dark Mode:
+Enhance your studying experience with a dark mode option.
+
 
 ## Installation
 https://magnet2.netlify.app/download
