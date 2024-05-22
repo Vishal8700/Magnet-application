@@ -4,33 +4,37 @@ Magnet is a powerful note-sharing and study material application designed specif
 
 ## Features
 
-Intuitive Note-Taking:
-Organized notes.
-Rich text formatting for effective content structuring.
-Easy-to-use interface for an optimal user experience.
-Course Organization:
-Group notes by courses for quick reference.
-Tagging system to further categorize and filter content.
-Collaboration:
-Share notes with classmates for collaborative learning.
-Real-time editing and commenting for group discussions.
-Study Material Repository:
-We Upload and store various types of study materials (PDFs, presentations, etc.).
-Quick search functionality to find relevant materials easily.
-University Portal Interface [IMS]
-Directly login to IMS to see your attendence securely. .
-Receive notifications to stay on top of your schedule.
-More Secure then NSUT X AND NSUT Companion app that save your data.
-Gemini Integration
-Ask your Doubts with Ai.
-Attendence prediction and calculation model
-Dark Mode:
-Enhance your studying experience with a dark mode option.
+### Intuitive Note-Taking
+- **Organized Notes**: Keep your notes well-structured and easily accessible.
+- **Rich Text Formatting**: Utilize various text formatting options for effective content structuring.
+- **Easy-to-Use Interface**: Experience an optimal user experience with an intuitive interface.
 
+### Course Organization
+- **Group by Courses**: Organize your notes by courses for quick and easy reference.
+- **Tagging System**: Categorize and filter your content with tags.
+
+### Collaboration
+- **Share Notes**: Collaborate with classmates by sharing notes.
+- **Real-Time Editing and Commenting**: Engage in group discussions with real-time editing and commenting.
+
+### Study Material Repository
+- **Upload and Store**: Upload and store various types of study materials, including PDFs, presentations, and more.
+- **Quick Search**: Easily find relevant materials with the powerful search functionality.
+
+### University Portal Interface (IMS)
+- **Secure Login**: Directly log in to IMS to securely check your attendance.
+- **Notifications**: Receive notifications to stay on top of your schedule.
+- **Enhanced Security**: More secure than NSUT X and NSUT Companion apps, ensuring your data is safe.
+
+### Gemini Integration
+- **AI Assistance**: Ask your doubts and get answers from AI.
+- **Attendance Prediction**: Utilize attendance prediction and calculation models.
+
+### Dark Mode
+- **Enhanced Experience**: Improve your studying experience with the dark mode option.
 
 ## Installation
-https://magnet2.netlify.app/download
-
+<button href="https://magnet2.netlify.app/download" >download </button >
 
 ## License
 
@@ -38,7 +42,7 @@ Magnet is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-If you have any questions or need further assistance, feel free to contact us at letsmagnet4@gmail.com
+If you have any questions or need further assistance, feel free to contact us at support@magnetapp.com.
 
 ---
 
